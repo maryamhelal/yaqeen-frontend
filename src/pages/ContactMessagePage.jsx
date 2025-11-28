@@ -60,7 +60,7 @@ const ContactMessagePage = () => {
   };
 
   return (
-    <div className="max-w-lg mx-auto mt-24 mb-4 p-6 bg-gradient-to-r from-pink-50 to-purple-50 rounded shadow">
+    <div className="max-w-lg mx-auto mt-24 mb-4 p-6 bg-white rounded shadow">
       <h2 className="text-2xl font-bold mb-4">Send Us a Message</h2>
       <form onSubmit={handleSubmit} className="space-y-4">
         <input
