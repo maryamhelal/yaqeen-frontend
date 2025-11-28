@@ -78,7 +78,9 @@ export default function Footer() {
               Email:{" "}
               <a href="mailto:yaqeenshopp@gmail.com">yaqeenshopp@gmail.com</a>
             </p>
-            <p className="text-gray-300">Phone: +20 10 14314533</p>
+            <p className="text-gray-300" href="tel:+201014314533">
+              Phone: +20 10 14314533
+            </p>
             <p className="text-gray-300">
               Instagram:{" "}
               <a

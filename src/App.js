@@ -21,7 +21,7 @@ function App() {
     <>
       <Helmet>
         {/* Primary SEO Tags */}
-        <title>Yaqeen Clothing | Modest Fashion, Abayas & Dresses</title>
+        <title>Yaqeen Shop</title>
         <meta
           name="description"
           content="Discover Yaqeen Clothing's collection of modern, modest dresses and abayas for women. Shop stylish and comfortable outfits with fast delivery across Egypt."
@@ -36,10 +36,7 @@ function App() {
         <meta name="author" content="Yaqeen Clothing" />
 
         {/* Open Graph (for Facebook, Instagram, WhatsApp) */}
-        <meta
-          property="og:title"
-          content="Yaqeen Clothing | Modest Fashion, Abayas & Dresses"
-        />
+        <meta property="og:title" content="Yaqeen Shop" />
         <meta
           property="og:description"
           content="Shop modern, modest dresses and abayas with fast delivery across Egypt."
@@ -53,10 +50,7 @@ function App() {
 
         {/* Twitter Cards (Important for X / Twitter sharing) */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="Yaqeen Clothing | Modest Fashion & Abayas"
-        />
+        <meta name="twitter:title" content="Yaqeen Shop" />
         <meta
           name="twitter:description"
           content="Shop modern, modest dresses and abayas with fast delivery across Egypt."
